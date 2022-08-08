@@ -50,5 +50,18 @@ section {
 }
 
 .image-space {
-    padding-right: 10%;
+    padding-right: 5%;
+    box-shadow: 20px 20px 20px;
+    width: 40%;
+    height: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-decoration: none;
+    border-radius: 10%;
+
+}
+
+.margin {
+    margin-left: 10%;
+    margin-right: 10%;
 }
